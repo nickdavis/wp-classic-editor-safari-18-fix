@@ -1,0 +1,13 @@
+{
+  "name": "nickdavis/wp-classic-editor-safari-18-fix",
+  "description": "Fork of https://github.com/aaronmeder/wp-classic-editor-safari-18-fix to add composer support",
+  "type": "wordpress-plugin",
+  "version": "1.1.0",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aaron Meder"
+    }
+  ]
+}

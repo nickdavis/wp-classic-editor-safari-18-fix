@@ -3,7 +3,7 @@
 Plugin Name: Safari 18 Classic Editor Fix
 Plugin URI:  https://telltec.ch/projects/safari-18-wordpress-classic-editor-fix/
 Description: This minimal plugin fixes the column overlap issue in the WordPress Classic Editor on Safari 18.
-Version:     1.0
+Version:     1.1.0
 Author:      Aaron Meder
 Author URI:  https://telltec.ch
 License:     GPL2
